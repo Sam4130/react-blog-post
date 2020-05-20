@@ -1,0 +1,17 @@
+.Section{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px auto;
+    padding: 90px 0px 120px;
+    max-width: fit-content;
+
+}
+.Title{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(41, 41, 41);
+    line-height: 1.53;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    font-family: Poppins, sans-serif;
+}

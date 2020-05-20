@@ -1,0 +1,10 @@
+.App{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 15px;
+    overflow-x: hidden;
+    -webkit-tap-highlight-color: transparent;
+    margin: 0px;
+    padding: 0px;
+    object-position: center center;
+}
+
